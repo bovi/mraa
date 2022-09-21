@@ -62,6 +62,8 @@ typedef enum {
     IEI_TANK = 19,             /**< IEI Tank System*/
     INTEL_UPXTREME = 24,        /**< The UPXTREME Board */
     SIEMENS_IOT2050 = 26,      /**< Siemens IOT2050 board */
+    VISIONFIVE = 27,           /**< StarFive VisionFive board */
+        
 
     FTDI_FT4222 = 256,         /**< FTDI FT4222 USB to i2c bridge */
 
